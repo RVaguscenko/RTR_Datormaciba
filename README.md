@@ -15,7 +15,7 @@ Parāda komandas aprakstu. (piem. man uname)
 ## 6  history
 Parāda, kadās komandas tika izmantotas.
 ## 7  sh 
-Maian unix shell uz sh.
+Maina unix shell uz sh.
 ## 8  pwd
 Parāda, kura direktorija tagad atrodies.
 ## 9 ls
