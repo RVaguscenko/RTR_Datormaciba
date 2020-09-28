@@ -1,0 +1,64 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  echo $?
+    5  ls -l
+    6  echo $?
+    7  pwd
+    8  git clone 
+    9  git clone https://github.com/RVaguscenko/RTR_Datormaciba
+   10  ls -lt
+   11  cd ./RTR_Datormaciba/
+   12  ls -lt
+   13  echo README.md 
+   14  cat README.md 
+   15  nano first.c
+   16  ls -lt
+   17  gcc first,c
+   18  gcc first.c
+   19  ls -lt
+   20  ./a.out
+   21  nano second.c
+   22  ls -lt
+   23  gcc second.c
+   24  ls -lt
+   25  gcc first -o first.out
+   26  gcc first.c -o first.out
+   27  ls -lt
+   28  gcc second.c -o second.out
+   29  ls -lt
+   30  cp first.c HelloWorld.c 
+   31  nano HelloWorld.c
+   32  gcc HelloWorld -o HelloWorld.out
+   33  gcc HelloWorld.c -o HelloWorld.out
+   34  nano HelloWorld.c
+   35  gcc HelloWorld.c -o HelloWorld.out
+   36  nano HelloWorld.c
+   37  gcc HelloWorld.c -o HelloWorld.out
+   38  nano HelloWorld.c
+   39  gcc HelloWorld.c -o HelloWorld.out
+   40  HelloWorld.o
+   41  ./HelloWorld.o
+   42  ls -lt
+   43  ./HelloWorld.out
+   44  nano HelloWorld.c
+   45  gcc HelloWorld.c -o HelloWorld.out
+   46  nano HelloWorld.c
+   47  gcc HelloWorld.c -o HelloWorld.out
+   48  ./HelloWorld.out
+   49  nano HelloWorld.c
+   50  gcc HelloWorld.c -o HelloWorld.out
+   51  ./HelloWorld.out
+   52  nano HelloWorld.c
+   53  gcc HelloWorld.c -o HelloWorld.out
+   54  ./HelloWorld.out
+   55  ls -lt
+   56  nano HelloWorld.c
+   57  gcc HelloWorld.c -o HelloWorld.out
+   58  ./HelloWorld.out
+   59  echo $?
+   60  nano HelloWorld.c
+   61  gcc HelloWorld.c -o HelloWorld.out
+   62  ./HelloWorld.out
+   63  history
+   64  history > history_2809.txt
